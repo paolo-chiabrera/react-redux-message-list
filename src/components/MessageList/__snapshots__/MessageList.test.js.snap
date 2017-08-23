@@ -1,0 +1,4 @@
+exports[`test Should render the MessageList component 1`] = `
+<ul
+  className="message-list" />
+`;

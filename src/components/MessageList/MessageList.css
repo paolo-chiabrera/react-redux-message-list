@@ -1,0 +1,6 @@
+.message-list {
+    list-style: none;
+}
+.message-list .date {
+    font-style: italic;
+}
